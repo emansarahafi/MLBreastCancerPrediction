@@ -1,4 +1,4 @@
-# MLBreastCancerPrediction
+# ML Breast Cancer Prediction
 A machine learning project done with MATLAB to see which ML algorithms are more suitable to predict breast cancer.
 
 The dataset source: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
